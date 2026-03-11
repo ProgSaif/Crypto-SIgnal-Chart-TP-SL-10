@@ -6,8 +6,8 @@ CHANNEL_ID = "@your_channel_username"
 EMA_FAST = 9
 EMA_SLOW = 21
 RSI_PERIOD = 14
-RSI_LONG_MAX = 60
-RSI_SHORT_MIN = 40
+RSI_LONG_MAX = 80
+RSI_SHORT_MIN = 20
 
 # Candlestick chart settings
 CHART_WIDTH = 12
