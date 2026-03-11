@@ -45,5 +45,5 @@ DYOR
         except Exception as e:
             print(f"❌ ERROR on {symbol}: {e}")
     
-    print("\n⏳ Waiting 5 minutes before next scan...\n")
-    time.sleep(300)
+    print("\n⏳ Waiting 30 seconds before next scan...\n")
+    time.sleep(30)
